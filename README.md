@@ -43,6 +43,6 @@ PyTorch Transformer model for real-time toxicity classification in gaming chat. 
 
 ## 📬 Connect
 
-[LinkedIn](#) · [Email](#) · [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/darren-san-78a613274/) · [Email](darrensan8@gmail.com) 
 
 ![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrensan8&show_icons=true&theme=default&hide_border=true)
