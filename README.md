@@ -2,10 +2,6 @@
 
 Backend & Platform Engineering · SJSU Software Engineering '27
 
-[![Backend](https://img.shields.io/badge/Backend-Engineering-blue?style=flat-square)](https://github.com/darrensan8)
-[![AI/ML](https://img.shields.io/badge/AI%2FML-Focus-purple?style=flat-square)](https://github.com/darrensan8)
-[![SJSU](https://img.shields.io/badge/SJSU-'27-orange?style=flat-square)](https://www.sjsu.edu)
-
 > Building scalable backend systems and AI-powered tools. Interested in API design, microservices, and distributed systems.
 
 ---
@@ -28,25 +24,25 @@ PyTorch Transformer model for real-time toxicity classification in gaming chat. 
 
 ## 🛠 Tech Stack
 
-**Languages:** Python · TypeScript · Java · SQL  
-**Backend:** FastAPI · Spring Boot · REST APIs  
+**Languages:** Python · Java · SQL · HTML · TypeScript/JavaScript
+**Backend:** FastAPI · Spring Boot · REST APIs 
 **Data:** PostgreSQL · Redis · Supabase · Alembic  
-**ML/AI:** PyTorch · Transformers · Claude API  
-**Tools:** Docker · Git · Celery · Railway · Vercel  
+**ML/AI:** PyTorch · Transformers · TensorFlow · SKLearn · Claude API · OpenAI API
+**Tools:** Git · Celery · Railway · Vercel  
 
 ---
 
 ## 📍 Currently
 
-- 🏫 Studying enterprise architecture & distributed systems @ SJSU
+- 🏫 Studying Upper Division Coursework with a specialization in AI/ML @ SJSU
 - 🔍 Looking for backend / platform engineering internships (2026)
-- 🔧 Building **SpartanTutor** — Spring Boot appointment scheduling system
+- 🔧 Building **ResumAI** — LLM-powered AI resume feedback application
 - 📖 Deep-diving microservices patterns, ORM strategies, concurrency control
 
 ---
 
 ## 📬 Connect
 
-[LinkedIn](https://www.linkedin.com/in/darren-san-78a613274/) · [Email](darrensan8@gmail.com)
+[LinkedIn](#) · [Email](#) · [Portfolio](#)
 
 ![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrensan8&show_icons=true&theme=default&hide_border=true)
