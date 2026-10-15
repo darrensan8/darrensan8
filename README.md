@@ -8,7 +8,7 @@ Backend & Platform Engineering · SJSU Software Engineering '27
 
 ## 🚀 Featured Projects
 
-### [Resumai](https://github.com/darrensan8/resumai)
+### [Resumai](https:resumai.dev)
 AI-powered resume analyzer — FastAPI backend, Claude API, React/TypeScript frontend deployed on Railway + Vercel.
 `FastAPI` `Supabase` `Claude API` `React` `TypeScript`
 
