@@ -12,7 +12,7 @@ Backend & Platform Engineering · SJSU Software Engineering '27
 AI-powered resume analyzer — FastAPI backend, Claude API, React/TypeScript frontend deployed on Railway + Vercel.
 `FastAPI` `Supabase` `Claude API` `React` `TypeScript`
 
-### [EDI Resolve AI] (https://github.com/ZWONG88/edi-resolve-ai) [DevPost](https://devpost.com/software/placeholder-yt6zup)
+### [EDI Resolve AI](https://github.com/ZWONG88/edi-resolve-ai) · [Devpost](https://devpost.com/software/placeholder-yt6zup)
 Three-way reconciliation of EDI purchase orders (850), receiving advice (861), and invoices (810), built in 24 hours by a team of five for the IBM AI Challenge track of a hackathon. *Rules decide, AI explains, people approve:* a deterministic Decimal-based engine auto-approves, short-pays, holds, or routes each invoice to review. IBM Granite explains the findings, and a validator discards any AI answer that isn't backed by evidence. I built the core backend: the reconciliation engine, the AI validation layer, and a 185-test suite (94% backend coverage).
 `Python` `Pydantic` `SQLite` `IBM watsonx.ai` `Streamlit` `pytest`
 
@@ -38,9 +38,8 @@ PyTorch Transformer model for real-time toxicity classification in gaming chat. 
 
 ## 📍 Currently
 
-- 🏫 Studying Upper Division Coursework with a specialization in AI/ML @ SJSU
-- 🔍 Looking for backend / platform engineering internships (2026)
-- 🔧 Building **ResumAI** — LLM-powered AI resume feedback application
+- 🏫 Studying Upper Division Coursework @ SJSU
+- 🔍 Looking for backend engineering internships / Entry Level Roles (2027)
 - 📖 Deep-diving microservices patterns, ORM strategies, concurrency control
 
 ---
